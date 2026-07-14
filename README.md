@@ -67,9 +67,9 @@ I am a passionate **Full-Stack Developer**, **Systems Thinker**, and **IoT/Netwo
 
 ## 🌐 Get in Touch
 
-*   **Fiverr:** [Available for freelance workflows & technical development](#)
+*   **Fiverr:** [Available for freelance workflows & technical development](https://www.fiverr.com/s/jjx8gpw).
 *   **Discord:** `mubah3r`
-*   **GitHub:** [@yourusername](https://github.com/yourusername)
+*   **GitHub:** [@mubashiralidevpk](https://github.com/mubashiralidevpk)
 
 <p align="center">
   <sub>"If you want to change your results, change your habits." — <i>Atomic Habits</i></sub>
