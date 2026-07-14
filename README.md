@@ -42,16 +42,16 @@ I am a passionate **Full-Stack Developer**, **Systems Thinker**, and **IoT/Netwo
 
 ## 🏆 Featured Projects
 
-### 🏫 [AKSMSB](https://github.com/yourusername/AKSMSB)
+### 🏫 [AKSMSB](https://aksmsb.lovable.app)
 > **An Integrated School Management System & Learning Management System**
 *   A massive, 6-month full-stack project featuring administrative dashboards, class tracking, and seamless LMS workflows.
 *   Presented at a prestigious academic project exhibition in Islamabad.
 *   **Tech Stack:** React, Node.js, Express, Tailwind CSS, SQL.
 
-### 🌌 [Project Zero (Lumen Alpha)](https://github.com/yourusername/Project-Zero)
+### 🌌 [Project Zero (Lumen Alpha
 *   A conceptual, next-generation systems design exploring high-speed Li-Fi-based operating system structures.
 
-### ✈️ [PAK RFF-1 GHOST](https://github.com/yourusername/PAK-RFF-1-GHOST)
+### ✈️ [PAK RFF-1 GHOST]
 *   A highly precise, custom technical visual design and structural layout configuration for conceptual military aviation.
 
 ---
