@@ -29,8 +29,8 @@ I am a passionate **Full-Stack Developer**, **Systems Thinker**, and **IoT/Netwo
 | Layer | Technologies |
 | :--- | :--- |
 | **Frontend** | `React` `Vite` `Astro` `Three.js` `Tailwind CSS` `HTML5` `CSS3` |
-| **Backend** | `Node.js` `Express.js` `Python` |
-| **Databases** | `SQL` `PostgreSQL` `MongoDB` |
+| **Backend** | `Node.js` `Express.js`  |
+| **Databases** | `SQL` `MongoDB` |
 | **Tools & OS** | `Git` `Linux` `Bash` `NanoZip` |
 
 ### 🔌 Low-Level & Infrastructure
